@@ -1,0 +1,26 @@
+html {
+    background: linear-gradient(pink, violet);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: yellow;
+    border-top-style: groove;
+    border-top-width: 5px;
+    border-bottom-style: groove;
+    border-bottom-width: 5px;
+    border-left-style: solid;
+    border-left-width: 7px;
+    text-shadow: 3px 3px 2px pink;
+}
+
+audio {
+    float: right;
+    background-color: transparent;
+    opacity: 50%;
+    position: static;
+    
+}
+
